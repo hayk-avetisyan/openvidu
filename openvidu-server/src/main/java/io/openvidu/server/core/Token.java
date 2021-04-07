@@ -70,6 +70,8 @@ public class Token {
 	}
 
 	public Boolean record() {
+		System.out.println("participant -> token -> connectionProperties: " + this.connectionProperties);
+		System.out.println("participant -> token -> connectionProperties -> record: " + this.connectionProperties.record());
 		return this.connectionProperties.record();
 	}
 

@@ -160,14 +160,16 @@ public class Session implements SessionInterface {
 
 	public void registerPublisher(Participant participant) {
 		this.activePublishers.incrementAndGet();
-		if (participant.getToken().record()) {
+		Boolean record = participant.getToken().record();
+		if (record != null && record) {
 			activeIndividualRecordedPublishers.incrementAndGet();
 		}
 	}
 
 	public void deregisterPublisher(Participant participant) {
 		this.activePublishers.decrementAndGet();
-		if (participant.getToken().record()) {
+		Boolean record = participant.getToken().record();
+		if (record != null && record) {
 			activeIndividualRecordedPublishers.decrementAndGet();
 		}
 	}
