@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: io.openvidu.test.e2e.OpenViduProTestAppE2eTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.178 s <<< FAILURE! - in io.openvidu.test.e2e.OpenViduProTestAppE2eTest
+io.openvidu.test.e2e.OpenViduProTestAppE2eTest  Time elapsed: 0.178 s  <<< ERROR!
+java.lang.NullPointerException
+	at io.openvidu.test.e2e.OpenViduProTestAppE2eTest.setupAll(OpenViduProTestAppE2eTest.java:54)
+

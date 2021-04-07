@@ -1,0 +1,4 @@
+io\openvidu\server\test\unit\SDPMungingTest.class
+io\openvidu\server\test\integration\config\IntegrationTestConfiguration.class
+io\openvidu\server\test\integration\SessionGarbageCollectorIntegrationTest.class
+io\openvidu\server\test\unit\DotenvTest.class

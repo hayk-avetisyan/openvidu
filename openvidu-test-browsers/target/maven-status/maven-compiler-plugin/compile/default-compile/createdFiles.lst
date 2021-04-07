@@ -1,0 +1,16 @@
+io\openvidu\test\browsers\utils\CustomHttpClient$1.class
+io\openvidu\test\browsers\utils\CustomHttpClient.class
+io\openvidu\test\browsers\utils\layout\CustomLayoutHandler.class
+io\openvidu\test\browsers\utils\webhook\CustomWebhook$WebhookController.class
+io\openvidu\test\browsers\utils\RecordingUtils.class
+io\openvidu\test\browsers\utils\CustomHttpClient$2.class
+io\openvidu\test\browsers\ChromeAndroidUser.class
+io\openvidu\test\browsers\OperaUser.class
+io\openvidu\test\browsers\utils\MultimediaFileMetadata.class
+io\openvidu\test\browsers\utils\webhook\CustomWebhook.class
+io\openvidu\test\browsers\utils\Unzipper.class
+io\openvidu\test\browsers\utils\webhook\CustomWebhook$SecurityConfig.class
+io\openvidu\test\browsers\BrowserUser.class
+io\openvidu\test\browsers\ChromeUser.class
+io\openvidu\test\browsers\utils\CommandLineExecutor.class
+io\openvidu\test\browsers\FirefoxUser.class
